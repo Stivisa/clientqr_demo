@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clientqr_demo/static/css/main.d08eaaec.css",
+    "main.js": "/clientqr_demo/static/js/main.da1c4443.js",
+    "index.html": "/clientqr_demo/index.html",
+    "main.d08eaaec.css.map": "/clientqr_demo/static/css/main.d08eaaec.css.map",
+    "main.da1c4443.js.map": "/clientqr_demo/static/js/main.da1c4443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d08eaaec.css",
+    "static/js/main.da1c4443.js"
+  ]
+}
